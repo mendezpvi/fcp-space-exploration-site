@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  text-align: center;
+  color: #00b4d8;
+}
+
+.underline {
+  text-decoration: underline;
+  text-decoration-color: #ffc300;
+  text-decoration-thickness: 4px;
+  text-underline-offset: 10px;
+}
+
+.hero {
+  padding: 100px 0;
+  font-weight: 800;
+  background-image: url('./images/galaxy.webp');
+  background-size: cover;
+}
+
+.logo {
+  width: 150px;
+}
+
+.title {
+  text-shadow: 0 0 4px #0d1b2a;
+}
+
+.apply-btn {
+  padding: 8px 16px;
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 800;
+  background-color: #0d1b2a;
+  border: none;
+  color: inherit;
+}
